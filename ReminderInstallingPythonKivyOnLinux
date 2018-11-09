@@ -1,0 +1,5 @@
+open project structure.
+go Bundles tab
+press + and add python from usr/bin/python (or python 3.x)
+then go Modules tab select python and add sdk. (should be the same number as selected above)
+that should do it ... i think, obviously you must already have installed stuff as described on kivy site.
